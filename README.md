@@ -1,4 +1,4 @@
-<img width="100%" height="250px" src="https://user-images.githubusercontent.com/72407612/130125168-3aecd316-d0e5-4d05-9622-953e3f4dff1d.png">
+<img width="100%" height="250px" src="https://camo.githubusercontent.com/436ff9dad0eb40a2cfefdfa0d5ba38ea7ea47d703e447f8f30012abe3dd6032e/68747470733a2f2f696d61676573342e616c706861636f646572732e636f6d2f3130302f7468756d626269672d313030383930342e77656270">
 
 <h1>¡Hola! 👋</h1>
 <h1>Mi nombre es Juan Ignacio Moyano y soy Full Stack Web Developer.</h1>
