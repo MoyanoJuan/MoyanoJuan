@@ -45,4 +45,5 @@
 
 <h2>Contacto:</h2>
 📧 Email: juan.moyar@gmail.com 
+<hr></hr>
 📝 Linkedin: https://www.linkedin.com/in/juanimoyano/
