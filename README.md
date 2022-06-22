@@ -31,7 +31,7 @@
 
 <h3> Infusion Store </h3>
 
-
+<h4> Deploy: https://pf-gp1-deploy.vercel.app/ </h4>
 <h4> Repo: https://github.com/MoyanoJuan/pf-gp1-deploy </h4>
 
 <h3> SPA Food </h3>
