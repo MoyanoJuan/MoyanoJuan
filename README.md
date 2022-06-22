@@ -33,13 +33,13 @@
 
 <h4> Deploy: https://pf-gp1-deploy.vercel.app/ </h4>
 <h4> Repo: https://github.com/MoyanoJuan/pf-gp1-deploy </h4>
-
+<hr></hr>
 <h3> SPA Food </h3>
 
 
 <h4>Repo: https://github.com/MoyanoJuan/Part04---PI-FOODS </h4>
 
-
+<hr></hr>
 
 <h2>Contacto:</h2>
 📧 Email: juan.moyar@gmail.com 
