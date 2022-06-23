@@ -32,13 +32,13 @@
 <h2> Proyectos </h2>
 
 <h3> Infusion Store </h3>
-
+<img src="https://i.postimg.cc/MZmwktpz/imag.png" alt="img">
 <h4> Deploy: https://pf-gp1-deploy.vercel.app/ </h4>
 <h4> Repo: https://github.com/MoyanoJuan/pf-gp1-deploy </h4>
 <hr></hr>
 <h3> SPA Food </h3>
-
-
+<img src="https://i.postimg.cc/136MT7yH/Capture.png" alt="im">
+<img src="https://i.postimg.cc/7PsBTTBg/Capture2.png" alt="im2">
 <h4>Repo: https://github.com/MoyanoJuan/Part04---PI-FOODS </h4>
 
 <hr></hr>
