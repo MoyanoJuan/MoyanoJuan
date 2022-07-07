@@ -29,7 +29,7 @@
 <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>  </p>
 
-<h2> Proyectos </h2>
+<h2> Proyectos Destacados </h2>
 
 <h3> Infusion Store </h3>
 <a href="https://pf-gp1-deploy.vercel.app/"><img src="https://i.postimg.cc/MZmwktpz/imag.png" alt="img"></a>
@@ -40,6 +40,12 @@
 <a href="https://github.com/MoyanoJuan/Part04---PI-FOODS"><img src="https://i.postimg.cc/136MT7yH/Capture.png" alt="im"></a>
 <a href="https://github.com/MoyanoJuan/Part04---PI-FOODS"><img src="https://i.postimg.cc/7PsBTTBg/Capture2.png" alt="im2"></a>
 <h4>Repo: https://github.com/MoyanoJuan/Part04---PI-FOODS </h4>
+
+<hr></hr>
+
+<h2> Portfolio </h2>
+<a hrfe="moyano-portfolio.vercel.app"><img src="https://i.postimg.cc/6qSS6xMg/Capture.png" alt="img"></a>
+<h4> Link: moyano-portfolio.vercel.app </h4>
 
 <hr></hr>
 
